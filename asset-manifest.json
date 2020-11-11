@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/mohit27kokanda.github.io/Employee-list/static/css/main.b9fb0bb1.chunk.css",
+    "main.js": "/mohit27kokanda.github.io/Employee-list/static/js/main.5768932f.chunk.js",
+    "main.js.map": "/mohit27kokanda.github.io/Employee-list/static/js/main.5768932f.chunk.js.map",
+    "runtime-main.js": "/mohit27kokanda.github.io/Employee-list/static/js/runtime-main.e343a0e2.js",
+    "runtime-main.js.map": "/mohit27kokanda.github.io/Employee-list/static/js/runtime-main.e343a0e2.js.map",
+    "static/js/2.a469082d.chunk.js": "/mohit27kokanda.github.io/Employee-list/static/js/2.a469082d.chunk.js",
+    "static/js/2.a469082d.chunk.js.map": "/mohit27kokanda.github.io/Employee-list/static/js/2.a469082d.chunk.js.map",
+    "index.html": "/mohit27kokanda.github.io/Employee-list/index.html",
+    "static/css/main.b9fb0bb1.chunk.css.map": "/mohit27kokanda.github.io/Employee-list/static/css/main.b9fb0bb1.chunk.css.map",
+    "static/js/2.a469082d.chunk.js.LICENSE.txt": "/mohit27kokanda.github.io/Employee-list/static/js/2.a469082d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e343a0e2.js",
+    "static/js/2.a469082d.chunk.js",
+    "static/css/main.b9fb0bb1.chunk.css",
+    "static/js/main.5768932f.chunk.js"
+  ]
+}
