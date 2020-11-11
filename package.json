@@ -1,6 +1,7 @@
 {
-  "name": "react-todo",
+  "name": "employee-list",
   "version": "0.1.0",
+  "homepage": "https://github.com/mohit27kokanda.github.io/Employee-list/",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.11.0",
@@ -16,6 +17,8 @@
   },
   "scripts": {
     "start": "react-scripts start",
+    "predeploy":"npm run build",
+    "deploy":"gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
