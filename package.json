@@ -1,7 +1,7 @@
 {
   "name": "employee-list",
   "version": "0.1.0",
-  "homepage": "https://github.com/mohit27kokanda.github.io/Employee-list",
+  "homepage": "https://mohit27kokanda.github.io/Employee-list",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.11.0",
